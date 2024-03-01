@@ -4,8 +4,7 @@
     <head>
       <style>
         #para1 {
-            text-align: center;
-            color:red;
+           { text-align: center; color:red; }
         } 
       </style>
     </head>
